@@ -1,4 +1,4 @@
-# Problems: Kernel Density Estimation
+## Problems: Kernel Density Estimation
 
 **You may use code to solve these problems. You may then sketch what your plots show, or add the plots to this homework and submit a pdf digitally (email).**
 
